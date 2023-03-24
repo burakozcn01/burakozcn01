@@ -1,12 +1,15 @@
 ### Merhaba! 👋
 
-Benim adım [Kullanıcı Adınız]. Siber güvenlik uzmanıyım ve blog yazarlığı yapıyorum. Ayrıca Python 🐍 ve JavaScript 🚀 dillerini biliyorum.
+Benim adım Burak Özcan.
+
+Siber güvenlik uzmanıyım ayrıca blog yazarlığı yapıyorum.
+Python 🐍 ve JavaScript 🚀 dillerini biliyorum.
 
 ---
 
 ### Github İstatistiklerim
 
-[Github İstatistiklerim](https://github-readme-stats.vercel.app/api?username=[Reload-ing]&show_icons=true&theme=radical)
+[Github İstatistiklerim](https://github-readme-stats.vercel.app/api?username=burakozcn01&show_icons=true&theme=radical)
 
 ---
 
