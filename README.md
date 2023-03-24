@@ -6,14 +6,14 @@ Benim adım [Kullanıcı Adınız]. Siber güvenlik uzmanıyım ve blog yazarlı
 
 ### Github İstatistiklerim
 
-![Github İstatistiklerim](https://github-readme-stats.vercel.app/api?username=[Kullanıcı Adınız]&show_icons=true&theme=radical)
+[Github İstatistiklerim](https://github-readme-stats.vercel.app/api?username=[Reload-ing]&show_icons=true&theme=radical)
 
 ---
 
 ### Diller ve Araçlar
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
 <!--
