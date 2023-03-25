@@ -1,6 +1,6 @@
 ### Merhaba! 👋
 
-Benim adım Burak Özcan.
+Adım Burak Özcan.
 
 Siber güvenlik uzmanıyım ayrıca boş zamanlarımda makale yazarlığı yapıyorum.
 Python 🐍 ve JavaScript 🚀 dillerini biliyorum.
