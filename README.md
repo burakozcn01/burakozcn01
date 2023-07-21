@@ -2,7 +2,7 @@
 
 Adım Burak Özcan.
 
-Siber güvenlik ve Bilgi güvenliği uzmanıyım ayrıca boş zamanlarımda makale yazarlığı yapıyorum.
+Siber güvenlik uzmanıyım ve Django Backend Developer'ım ayrıca boş zamanlarımda makale yazarlığı yapıyorum.
 Python/Django ve JavaScript  dillerini biliyorum.
 
 ---
