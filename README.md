@@ -3,7 +3,7 @@
 Adım Burak Özcan.
 
 Siber güvenlik ve Bilgi güvenliği uzmanıyım ayrıca boş zamanlarımda makale yazarlığı yapıyorum.
-Python 🐍 ve JavaScript 🚀 dillerini biliyorum.
+Python/Django ve JavaScript  dillerini biliyorum.
 
 ---
 
