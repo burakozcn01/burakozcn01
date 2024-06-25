@@ -29,6 +29,6 @@ External/Internal Sızma testi ve Python kodlama ile uğraşıyorum. Güvenlik t
 
 ---
 
-### Hakkımda Daha Fazla
+### Daha Fazlası 
 
-Güvenlik ve yazılım geliştirme konularına olan ilgim ve tutkumla projeler geliştiriyorum. Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum. Bu profilimde, üzerinde çalıştığım projeleri ve katkıda bulunduğum açık kaynak projelerini bulabilirsiniz. Daha fazla bilgi veya işbirliği için iletişime geçmekten çekinmeyin!
+Güvenlik ve yazılım geliştirme konularına olan ilgim ve tutkumla projeler geliştiriyorum. Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum. Profilimde, üzerinde çalıştığım projeleri ve katkıda bulunduğum açık kaynak projelerini bulabilirsiniz. 
