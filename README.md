@@ -1,5 +1,6 @@
 ### Merhaba! 👋
 
+![Mr Robot](https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif)
 
 External/Internal Sızma testi ve Python kodlama ile uğraşıyorum. Güvenlik testleri ve yazılım geliştirme konularında deneyimliyim. Ayrıca Django ile web uygulamaları geliştirme konusunda da tutkuluyum.
 
@@ -17,12 +18,6 @@ External/Internal Sızma testi ve Python kodlama ile uğraşıyorum. Güvenlik t
 
 ---
 
-### İletişim
-
-- [LinkedIn](https://www.linkedin.com/in/burakozcan01/)
-
----
-
 ### Daha Fazlası 
 
-Güvenlik ve yazılım geliştirme konularına olan ilgim ve tutkumla projeler geliştiriyorum. Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum. Profilimde, üzerinde çalıştığım projeleri ve katkıda bulunduğum açık kaynak projelerini bulabilirsiniz. 
+Güvenlik ve yazılım geliştirme konularına olan ilgim ve tutkumla projeler geliştiriyorum. Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum. Profilimde, üzerinde çalıştığım projeleri ve katkıda bulunduğum açık kaynak projelerini bulabilirsiniz.
