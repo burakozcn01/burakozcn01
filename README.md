@@ -5,12 +5,6 @@ External/Internal Sızma testi ve Python kodlama ile uğraşıyorum. Güvenlik t
 
 ---
 
-### Github İstatistiklerim
-
-![Github İstatistiklerim](https://github-readme-stats.vercel.app/api?username=burakozcn01&show_icons=true&theme=radical)
-
----
-
 ### Diller ve Teknolojiler
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
