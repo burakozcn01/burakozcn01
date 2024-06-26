@@ -2,7 +2,7 @@
 
 ![Mr Robot](https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif)
 
-External/Internal Sızma testi ve Python kodlama ile uğraşıyorum. Güvenlik testleri ve yazılım geliştirme konularında deneyimliyim. Ayrıca Django ile web uygulamaları geliştirme konusunda da tutkuluyum.
+External/Internal Sızma testi ve Python kodlama ile uğraşıyorum. Güvenlik testleri ve yazılım geliştirme konularında meraklı biriyim. Ayrıca Django ile web uygulamaları geliştirme konusunda da tutkuluyum.
 
 ---
 
