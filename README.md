@@ -5,7 +5,6 @@
   
   <h3>Penetration Tester & Python Developer 🐍</h3>
 
-  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=burakozcn01.burakozcn01)](https://github.com/burakozcn01)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/burakozcan01)
 </div>
 
@@ -67,14 +66,6 @@ while True:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakozcn01&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-## 💬 Contact
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burakozcan01)
-
 </div>
 
 ---
