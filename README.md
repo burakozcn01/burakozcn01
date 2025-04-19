@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif" alt="Mr Robot" width="500"/>
   
-  <h3>Penetration Tester & Python Developer 🐍</h3>
+  <h3>Penetration Tester & Full Stack Developer </h3>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/burakozcan01)
 </div>
