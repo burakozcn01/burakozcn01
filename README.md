@@ -1,81 +1,71 @@
 # Hello, World! 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif" alt="Mr Robot" width="500"/>
-  
-  <h3>Penetration Tester & Full Stack Developer </h3>
+![Mr Robot](https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif)
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/burakozcan01)
-</div>
+### Penetration Tester & Full‑Stack Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=flat-square)](https://linkedin.com/in/burakozcan01)
+
+---
 
 ## 💼 About Me
 
-> *"No system is 100% secure."*
+> *“No system is 100 % secure.”*
 
-I focus on securing digital environments while building robust and secure web applications with **Django**. I thrive on exploring new challenges and continuously improving my skills in cybersecurity and software development.
+I protect digital environments while building robust applications with **Django**, **React**, and **Kotlin**. Exploring new challenges and continuously leveling‑up are what keep me moving.
 
 <details>
-<summary>📝 More Information</summary>
-<br>
+<summary>📝 More Info</summary>
 
-I enjoy tackling challenges and turning complex problems into elegant solutions. My projects reflect my passion for:
+* **Cybersecurity** – finding & fixing vulnerabilities
+* **Full‑Stack Development** – Python / JavaScript / Kotlin
+* **Continuous Learning** – because tech never stands still
 
-- **Cybersecurity**: Ensuring systems are safe and secure
-- **Web Development**: Crafting functional and scalable applications
-- **Continuous Learning**: Staying updated in the ever-evolving tech world
+Here you’ll see:
 
-On my profile, you'll find:
-- Projects focused on cybersecurity and development
-- Contributions to open-source initiatives
-- My journey as a curious developer striving for excellence
+* Security‑focused projects & write‑ups
+* Open‑source contributions
+* My journey as a curious engineer
+
 </details>
 
-## 🛠️ Skills and Technologies
+---
 
-<div align="center">
+## 🛠️ Skills & Tech
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+| Languages                                                                                                                                                                                                                                                                                                                                                                                                                                | Frameworks / Libraries                                                                                                                                                                                                                                                                                           | Tooling                                                                                                                                                                                                                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white\&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=for-the-badge) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin\&logoColor=white\&style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash\&logoColor=white\&style=for-the-badge) | ![Django](https://img.shields.io/badge/Django-092E20?logo=django\&logoColor=white\&style=for-the-badge) ![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black\&style=for-the-badge) ![Ktor](https://img.shields.io/badge/Ktor-0095D5?logo=kotlin\&logoColor=white\&style=for-the-badge) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white\&style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white\&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black\&style=for-the-badge) |
 
-### Web Development
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
+---
 
 ## 🚀 What I Do
 
 ```python
 while True:
-    test_systems_for_vulnerabilities()
-    develop_secure_applications()
-    learn_new_techniques()
-    if coffee_level < 20:
-        refill_coffee()
+    pentest(targets)
+    build_secure_apps(stack=["Django", "React", "Kotlin"])
+    learn()
+    if coffee < 20:
+        refill()
 ```
 
-- 🔐 Conduct system vulnerability assessments and improve security measures
-- 💻 Develop secure, user-friendly web applications using **Django** and **Python**
-- 📚 Continuously enhance my skills by learning new techniques and tools
+* 🔐 Run vulnerability assessments & strengthen security controls
+* 💻 Build reliable, user‑friendly apps with **Django + React** (and Kotlin on the back end)
+* 📚 Stay ahead of the curve through constant learning
+
+---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakozcn01&layout=compact&langs_count=7&theme=radical"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakozcn01\&layout=compact\&theme=radical)
 
 ---
 
 ### ☕ Fun Fact
 
-I find solving a stubborn bug as satisfying as a perfectly brewed cup of coffee.
+Debugging a stubborn bug feels as satisfying as a perfectly brewed cup of coffee.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coffee Code" width="300"/>
-  
-  <h4>Feel free to explore my repositories and connect—let's make the digital space safer and more innovative together! 🚀</h4>
-</div>
+![Coffee & Code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+> **Explore my repos & let’s make the digital world safer—together 🚀**
