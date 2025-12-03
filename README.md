@@ -1,8 +1,6 @@
-# Burak
+# Reloading
 
 Penetration Tester & Full-Stack Developer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-burakozcan01-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/burakozcan01)
 
 ---
 
